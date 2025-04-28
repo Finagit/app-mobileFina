@@ -41,7 +41,7 @@ export default Cover;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#d5f3f3',
+    backgroundColor: '#C6F6C6',
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
