@@ -57,7 +57,7 @@ export default function QiblatScreen() {
       <Text style={styles.gpsText}>Yuk, kita sholat tepat waktu.</Text>
 
       <Image
-        source={require('../assets/images/cat.png')} 
+        source={require('../assets/images/ustad.png')} 
         style={styles.calibrateImage}
         resizeMode="contain"
       />
